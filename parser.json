@@ -1,8 +1,9 @@
 {
-  "url": "https://github.com/dlvandenberg/tree-sitter-angular",
-  "semver": false,
-  "lang": "angular",
+  "parser_version": "f0d0685701b70883fa2dfe94ee7dc27965cab841",
   "location": null,
-  "min_version": null,
-  "max_version": null
+  "lang": "angular",
+  "generate": null,
+  "generate_from_json": null,
+  "url": "https://github.com/dlvandenberg/tree-sitter-angular",
+  "semver": false
 }
